@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MY\\source\\repos\\Lab_02.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89ECCA98-EB7D-4954-A39F-BD0B1105D323}|Lab_02.1\\Lab_02.1.vcxproj|C:\\Users\\MY\\source\\repos\\Lab_02.1\\Lab_02.1\\Lab_02.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89ECCA98-EB7D-4954-A39F-BD0B1105D323}|Lab_02.1\\Lab_02.1.vcxproj|solutionrelative:Lab_02.1\\Lab_02.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab_02.1.cpp",
+              "DocumentMoniker": "C:\\Users\\MY\\source\\repos\\Lab_02.1\\Lab_02.1\\Lab_02.1.cpp",
+              "RelativeDocumentMoniker": "Lab_02.1\\Lab_02.1.cpp",
+              "ToolTip": "C:\\Users\\MY\\source\\repos\\Lab_02.1\\Lab_02.1\\Lab_02.1.cpp",
+              "RelativeToolTip": "Lab_02.1\\Lab_02.1.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T15:41:27.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
